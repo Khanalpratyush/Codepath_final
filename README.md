@@ -8,9 +8,6 @@
 - [About the Project](#about-the-project)
 - [Built With](#built-with)
 
-## Demo Website
-
-#### Visit Demo Website **[here](https://flashcode.itsmesovit.com)**
 
 ## About The Project
 
